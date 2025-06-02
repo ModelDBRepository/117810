@@ -1,8 +1,6 @@
-<html>
-<pre>
-ReMoto - Simulation system of spinal cord motor nuclei
+# ReMoto - Simulation system of spinal cord motor nuclei
 
-(source code and working version available at <a href="http://remoto.leb.usp.br">http://remoto.leb.usp.br</a>)
+(source code and working version available at [http://remoto.leb.usp.br](http://remoto.leb.usp.br))
 
 This project was developed by Rogerio R. L. Cisi and Andre F. Kohn,
 from the Biomedical Engineering Laboratory - University of Sao Paulo,
@@ -11,8 +9,8 @@ describing the system is:
 
 Cisi, R.R.L., Kohn, A. F. "Simulation system of spinal cord motor
 nuclei and associated nerves and muscles, in a web-based
-architecture". Journal of Computational Neuroscience, 2008
-[http://dx.doi.org/10.1007/s10827-008-0092-8].
+architecture". *Journal of Computational Neuroscience*, 2008
+[http://dx.doi.org/10.1007/s10827-008-0092-8](http://dx.doi.org/10.1007/s10827-008-0092-8).
 
 See also the ReMoto Introductory Page and a broader tutorial in PDF.
 
@@ -21,4 +19,7 @@ the paper above is given in any publication that relies on results
 obtained from this simulator. Any suggestions for improvement are
 extremely welcome. Please contact: rcisi@leb.usp.br or
 andfkohn@leb.usp.br.
-</pre></html>
+
+---
+
+2025-06-02: Converted README to Markdown.
